@@ -101,16 +101,12 @@ Atualmente estou consolidando minha base em arquitetura de software e engenharia
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🌎 Idiomas
 
-<p align="center">
-  <img 
-    height="160em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RaphaelFernandessDev&show_icons=true&theme=tokyonight"
-  />
-  <img 
-    height="160em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaphaelFernandessDev&layout=compact&theme=tokyonight"
-  />
+<p align="left">
+  <img src="https://img.shields.io/badge/Português-Nativo-009C3B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Inglês-Básico%20%7C%20Em%20evolução-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Espanhol-Básico-FF4B4B?style=for-the-badge"/>
 </p>
+
 
