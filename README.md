@@ -104,14 +104,13 @@ Atualmente estou consolidando minha base em arquitetura de software e engenharia
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img
+  <img 
     height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=RaphaelFernandessDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400&v=1"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RaphaelFernandessDev&show_icons=true&theme=tokyonight"
   />
-  <img
+  <img 
     height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFernandessDev&layout=compact&theme=tokyonight&cache_seconds=86400&v=1"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaphaelFernandessDev&layout=compact&theme=tokyonight"
   />
 </p>
-
 
