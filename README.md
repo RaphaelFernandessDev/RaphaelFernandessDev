@@ -14,7 +14,7 @@ Sou desenvolvedor com formação técnica em Engenharia Elétrica e Eletrônica,
 
 Tenho experiência com desenvolvimento web moderno e também com eletrônica, o que me proporciona uma visão lógica e estruturada para resolver problemas.
 
-Atualmente estou evoluindo minhas habilidades em arquitetura de software, automações e machine learning com Python.
+Atualmente estou consolidando minha base em arquitetura de software e engenharia backend com Python, desenvolvendo soluções estruturadas, escaláveis e orientadas a boas práticas, incluindo a construção de APIs, integrações com banco de dados relacionais, automações e aplicações de Machine Learning.
 
 ---
 
@@ -33,6 +33,7 @@ Atualmente estou evoluindo minhas habilidades em arquitetura de software, automa
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
 ### 🧠 Estudando
@@ -48,7 +49,7 @@ Atualmente estou evoluindo minhas habilidades em arquitetura de software, automa
 🔹 **Aurora Valley (RedM Roleplay Server)**
 - Estruturação de sistemas internos
 - Criação de scripts personalizados em Lua
-- Organização de condado, ícones e assets
+- Organização e criação do Banco de Dados
 - Customização de mapa e mecânicas de gameplay
 
 🔹 **Site comemorativo com contador dinâmico**
@@ -69,6 +70,20 @@ Atualmente estou evoluindo minhas habilidades em arquitetura de software, automa
 
 ---
 
+## 📫 Contato
+
+<p align="left">
+<a href="https://linkedin.com/in/raphael-fernandes-81873921b/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:raphaelfernandesdev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -85,16 +100,4 @@ Atualmente estou evoluindo minhas habilidades em arquitetura de software, automa
   />
 </p>
 
----
 
-## 📫 Contato
-
-<p align="left">
-<a href="https://linkedin.com/in/raphael-fernandes-81873921b/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:raphaelfernandesdev@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
