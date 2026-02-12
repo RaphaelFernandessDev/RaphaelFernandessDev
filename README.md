@@ -14,7 +14,7 @@ Sou desenvolvedor com formação técnica em Engenharia Elétrica e Eletrônica,
 
 Tenho experiência com desenvolvimento web moderno e também com eletrônica, o que me proporciona uma visão lógica e estruturada para resolver problemas.
 
-Atualmente estou evoluindo minhas habilidades em arquitetura de software e machine learning com Python.
+Atualmente estou evoluindo minhas habilidades em arquitetura de software, automações e machine learning com Python.
 
 ---
 
@@ -28,10 +28,11 @@ Atualmente estou evoluindo minhas habilidades em arquitetura de software e machi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
-### ⚙️ Back-End
+### ⚙️ Back-End & Scripts
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
 </p>
 
 ### 🧠 Estudando
@@ -43,6 +44,12 @@ Atualmente estou evoluindo minhas habilidades em arquitetura de software e machi
 ---
 
 ## 📌 Projetos em destaque
+
+🔹 **Aurora Valley (RedM Roleplay Server)**
+- Estruturação de sistemas internos
+- Criação de scripts personalizados em Lua
+- Organização de condado, ícones e assets
+- Customização de mapa e mecânicas de gameplay
 
 🔹 **Site comemorativo com contador dinâmico**
 - Timer em tempo real
@@ -65,8 +72,8 @@ Atualmente estou evoluindo minhas habilidades em arquitetura de software e machi
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaphaelFernandessDev&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFernandessDev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -74,7 +81,11 @@ Atualmente estou evoluindo minhas habilidades em arquitetura de software e machi
 ## 📫 Contato
 
 <p align="left">
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/raphael-fernandes-81873921b/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:raphaelfernandesdev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
