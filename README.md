@@ -1,9 +1,10 @@
 <h1 align="center">👋 Olá, eu sou Raphael Fernandes</h1>
 
 <p align="center">
-💻 Desenvolvedor Fullstack <br>
-⚡ Foco em Front-End moderno e interfaces performáticas <br>
-📍 São Paulo - Brasil
+💻 Desenvolvedor Fullstack <br> 
+⚡ Front-End moderno com React | Back-End escalável com Python e bancos de dados relacionais  <br> 
+📍 São Paulo - Brasil<br> 
+
 </p>
 
 ---
