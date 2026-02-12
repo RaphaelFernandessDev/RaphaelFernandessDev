@@ -29,19 +29,34 @@ Atualmente estou consolidando minha base em arquitetura de software e engenharia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </p>
 
+---
+
 ### ⚙️ Back-End & Scripts
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-### 🧠 Estudando
+---
+
+### 🗄️ Banco de Dados
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 </p>
+
+---
+
+### 🛠️ Ferramentas & Versionamento
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
 
 ---
 
@@ -88,16 +103,13 @@ Atualmente estou consolidando minha base em arquitetura de software e engenharia
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=RaphaelFernandessDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=RaphaelFernandessDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400&v=1"
   />
-</p>
-
-<p align="center">
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFernandessDev&layout=compact&theme=tokyonight&cache_seconds=1800"
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelFernandessDev&layout=compact&theme=tokyonight&cache_seconds=86400&v=1"
   />
 </p>
 
